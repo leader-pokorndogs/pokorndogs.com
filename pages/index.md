@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <meta charset="UTF-8">
@@ -14,9 +13,7 @@
 </head>
   <body>
     <h1>PAGE1</h1>
-      <p>001 10/4/2019
-        <br>
-        More is here and now
+      <p>More is here and now
       </p>
   </body>
 </html>
