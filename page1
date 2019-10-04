@@ -12,9 +12,8 @@
   </style>
 </head>
   <body>
-    <h1>COMPENDIUM</h1>
-      <p>Everything is here and now
-        <a href="page1.html">Page 2</a>
+    <h1>PAGE1</h1>
+      <p>More is here and now
       </p>
   </body>
 </html>
