@@ -1,6 +1,3 @@
----
-title:ape
----
 
 <!DOCTYPE html>
 <html>
