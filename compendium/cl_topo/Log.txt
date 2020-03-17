@@ -1,5 +1,3 @@
-PDF grabbed from https://dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=977500
-
 2/2/2020
 So I move it to the desktop and it magically works? what the fuck
 make sure the SLDWKS .dxf importer DISPLAYS THE ACTUAL FILE PATH
