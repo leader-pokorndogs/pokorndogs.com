@@ -1,0 +1,23 @@
+4/7/2020 - Start of redraw
+	Re-drew cover, diffuser     rounded dimensions to tenths place
+	Did not add alignment tabs yet, waiting to see if 3 is best? maybe 1?
+
+4/8/2020 - Continue redraw, redesign cage
+	Removed frontward-most gap to match movie, preserved most of previous favorite design
+	Added "socket" again, it just needs to be there      made it fit, not movie accurate i believe
+	
+	New cap, similar to old but with forked tabs / more fillets / "H" plug                
+	either whole cap or plug needs to be separated to minimize supports
+	modified plug for cable to pass through? maybe cable sneakily passes out side in display
+		OR PLUG COVERS THE EXISTING WIRE CONNECTOR, REMOVED (or switched) WHEN DISPLAYED 	
+	
+
+	I guess not too much work left, the cage was the bad part
+
+4/9/2020 - Continued redraw + new stuff
+	Separated cage and plug
+	Added alignment tabs
+	Added light puck
+	Created rough stand, may need to change
+	
+	Satisfied with progress, it's going to be a good product
