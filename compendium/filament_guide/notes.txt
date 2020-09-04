@@ -1,4 +1,6 @@
 Ender 3 file from: https://github.com/Creality3DPrinting/Ender-3
+Printed with Inland Gold PLA
+
+***Design is obsolete, heavy warping in enclosure***
 
 4/10/2020 - Created
-	

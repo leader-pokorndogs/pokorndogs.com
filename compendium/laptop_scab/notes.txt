@@ -1,0 +1,6 @@
+Laptop: Inspiron 15 7000-series
+
+Applied JB-Weld Epoxy to inside of scab
+Printed with AS filament
+
+Note: Curve is not exact, extra epoxy needed to fill gap
