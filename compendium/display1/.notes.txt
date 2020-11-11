@@ -1,0 +1,11 @@
+11/07/2020
+Changed design to use T-slot
+
+Modified mk2 mask
+	Sliced on weird angle for printing
+	Added t-slot mounting
+
+
+https://8020.net/20-2040.html
+https://8020.net/12004.html
+https://8020.net/12306.html
