@@ -1,0 +1,11 @@
+after upper and lower mask is designed, it needs to be thickened
+Then make a patch (surfaces) of the eyes and cut out eye shape in sketch on front plane w/ extrusion
+Thicken Lone Rangers
+Use boundary fill to make upper and lower mask solids
+Then extrude to body works
+
+2D 		https://i.pinimg.com/originals/ec/a9/15/eca915aba09ef5b54d47eb3b47e0cefc.jpg
+meshing		https://gallery.autodesk.com/projects/110798/ironman-suit
+
+LED Strip	https://www.amazon.com/Light-Topled-Mounting-Multicolor-Backlight/dp/B01KXUX6SO/ref=sr_1_18?dchild=1&keywords=rgb+led+strip+5v&qid=1605121153&s=hi&sr=1-18
+8020		https://www.amazon.com/80-20-20-2040-T-Slotted-Extrusion/dp/B00CBHHEEK/ref=sr_1_5?dchild=1&keywords=80%2F20+Inc%2C+20-2040&qid=1605132967&s=industrial&sr=1-5
