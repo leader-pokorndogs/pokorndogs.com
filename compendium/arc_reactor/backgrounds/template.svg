@@ -12,9 +12,9 @@
    version="1.1"
    id="svg4747"
    xml:space="preserve"
-   width="1122.5601"
-   height="1587.36"
-   viewBox="0 0 1122.5601 1587.36"
+   width="1923.3875"
+   height="2901.4348"
+   viewBox="0 0 1923.3875 2901.4348"
    sodipodi:docname="promotional.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
      id="metadata4753"><rdf:RDF><cc:Work
@@ -41,9 +41,9 @@
      inkscape:window-height="1001"
      id="namedview4749"
      showgrid="false"
-     inkscape:zoom="0.25325068"
-     inkscape:cx="120.14588"
-     inkscape:cy="389.26464"
+     inkscape:zoom="0.17907528"
+     inkscape:cx="444.26979"
+     inkscape:cy="1001.1365"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -51,7 +51,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="background"
-     style="display:inline;opacity:1"><rect
+     style="display:inline;opacity:1"
+     transform="translate(102.62121,138.87665)"><rect
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.36656535;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect10908"
        width="1920"
@@ -73,7 +74,7 @@
      id="g4755"
      inkscape:groupmode="layer"
      inkscape:label="content"
-     transform="translate(0,1.3017334e-5)"
+     transform="translate(102.62121,138.87666)"
      style="display:inline"><path
        style="opacity:1;fill:#d5f6ff;fill-opacity:1;stroke:none;stroke-width:0.4935821;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        d="m 217.70688,683.979 c -9.46151,3.96558 -18.49823,9.01981 -27.3156,14.27035 -18.64133,11.7987 -36.09871,25.79857 -50.37538,42.695 0.43664,2.08439 1.79034,6.09389 4.35644,6.22858 29.68615,-0.15122 59.38378,0.33749 89.06265,-0.34609 1.52361,0.27627 2.83617,-0.93924 1.76524,-2.44758 -5.58213,-19.9363 -10.34014,-40.13638 -16.5997,-59.87487 -0.15157,-0.33673 -0.50307,-0.59888 -0.89365,-0.52539 z"
