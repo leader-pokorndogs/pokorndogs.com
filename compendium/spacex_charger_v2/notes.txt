@@ -1,0 +1,15 @@
+12/31/2020
+1st trial, design
+2 layers is not thick enough
+
+image from https://www.reddit.com/r/SpaceXLounge/comments/gtm7k3/i_wanted_the_ocisly_connection_error_as_a/
+
+01/02/2021
+2nd/3rd trial
+More than 2 layers is making a mess
+Needs to be 5 layers thick to hide support pattern
+
+Will need to:
+first 2 layers of black
+all 5 layers of color
+rest of black
